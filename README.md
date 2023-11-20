@@ -19,7 +19,9 @@ Embarking on a journey into the dynamic realm of crowdfunding, this project delv
 
 ## Crowdfunding Goal Analysis
 
-![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/GoalOutcomes.PNG)
+![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/Crowdfunding%20Goal.png)
+
+![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/Crowdfunding%20Goal%20Graph.png)
 
 ## Statistical Analysis
 
