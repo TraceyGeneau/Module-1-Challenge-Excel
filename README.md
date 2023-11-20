@@ -7,7 +7,6 @@ Embarking on a journey into the dynamic realm of crowdfunding, this project delv
 ![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/FullTable.PNG)
 <br/>
 
-***
 ## Data Compiling and Conversion
 <br/>
 ### Category Stats
@@ -19,11 +18,12 @@ Embarking on a journey into the dynamic realm of crowdfunding, this project delv
 ![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/SubcategoryStats.PNG)
 <br/>
 
-***
+
 ## Crowdfunding Goal Analysis
 <br/>
 ![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/Crowdfunding%20Goal.png)
 <br/>
+
 ![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/Crowdfunding%20Goal%20Graph.png)
 <br/>
 ***
@@ -32,10 +32,11 @@ Embarking on a journey into the dynamic realm of crowdfunding, this project delv
 
 For both Successful and Failed campaigns, a notable disparity between the median and mean values suggests a skewed distribution of the data, with the median emerging as a more reliable indicator of its central tendency. This observation underscores the asymmetry in the distribution, where extreme values may be influencing the mean. Additionally, the analysis reveals that the Standard Deviation and variance in Successful outcomes surpass those in Failed outcomes, indicating a greater degree of variability in the former. This finding aligns logically, as a higher Standard Deviation signifies increased variability around the mean, highlighting the dynamic and diverse nature of successful campaigns within the dataset.
 <br/>
+
 ### Backers Count
 ![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/Backers%20Stats.png)
 <br/>
-***
+
 ## Response to Pivot Table Analysis on Crowdfunding Campaigns:
 
 ![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/final.png)
