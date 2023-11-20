@@ -29,5 +29,5 @@ Embarking on a journey into the dynamic realm of crowdfunding, this project delv
 
 ### Backers Count
 
-![](https://github.com/TraceyGeneau/Module-1-Challenge-Excel/blob/main/Images/backers01.png)
+
 
